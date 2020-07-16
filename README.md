@@ -26,7 +26,7 @@ You can view the fully-processed data here: [IPEDS_joined_export.xlsx](./IPEDS_j
 
 Here are a few links related to the process:
 
-- Example SQL query used to pull the data together: [accessSql_aggregate_query.txt](./accessSql_aggregate_query.txt)
+- Example SQL query used to pull the data together: [accessSql_aggregate_query.sql](./accessSql_aggregate_query.sql)
 - The upper database used to import tables from multiple database files. The specific database files were too big to upload to GitHub: [IPEDS_Aggregate.accdb](./IPEDS_Aggregate.accdb)
 - Processed/exported data: [IPEDS_joined_export.xlsx](./IPEDS_joined_export.xlsx)
 
